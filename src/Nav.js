@@ -26,7 +26,7 @@ function Nav() {
           />
           <img
           className="nav_avatar"
-          src="https://images.megapixl.com/5201/52010608.jpg"
+          src="https://images.megapixl.com/5201/52010608.png"
           alt="HT Avatar"
           />
             
