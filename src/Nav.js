@@ -21,13 +21,13 @@ function Nav() {
         <div className={`nav ${show && "nav_black"}`}>
           <img
           className="nav_logo"
-          src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
-          alt="Netflix Logo"
+          src="https://github.com/HarshTyagi007/SocialLinksExtension/blob/master/images/HTLogo.png?raw=true"
+          alt="HT Logo"
           />
           <img
           className="nav_avatar"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Netflix-avatar.png/640px-Netflix-avatar.png"
-          alt="Netflix Logo"
+          src="https://images.megapixl.com/5201/52010608.jpg"
+          alt="HT Avatar"
           />
             
         </div>
